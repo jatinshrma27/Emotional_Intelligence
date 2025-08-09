@@ -160,5 +160,5 @@ Your web browser should automatically open with the application running.
 This project is based on the research conducted in the Apex Institute of Technology (CSE), Chandigarh University:
 
 
-Yash Singh 
+Jatin Sharma 
 
